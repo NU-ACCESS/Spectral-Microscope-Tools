@@ -11,5 +11,7 @@ Download the latest version of [Fiji](https://fiji.sc) and place the scripts int
 
 **LambdaStack to XYZ** This script converts a stack of monochromatic wavelength images collected by the NU-ACCESS spectral microscope and converts them into an XYZ tristumulus space. This is accomplished by multiplying each wavelength image by the CIE 1931 Standard Observer matching function thus producing X, Y, and Z tristimulus value images.
 
-**XYZ to RGB** This script converts the XYZ stack into adobe RGB color space assuming a standard D65 Illuminant.
+**XYZ to RGB** The script converts the XYZ stack into adobe RGB color space assuming a standard D65 Illuminant.
+
+
 
