@@ -1,7 +1,7 @@
 # Spectral-Microscope-Tools
 
 The scripts here were written in Python for use in ImageJ (Fiji) and are based on algorithms detailed in the forthcoming paper:
-Oakley et. al. "Oblique Illumination Spectral Imaging Microscopy".
+Oakley et. al. "Improved Spectral Imaging Microscopy for Cultural Heritage through Oblique Illumination".
 
 ## Getting Started with the Scripts
 
